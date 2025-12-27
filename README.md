@@ -23,8 +23,8 @@ Proxima comes packed with a variety of useful features, including:
 
 ## Installation
 
-1. Clone the client repository using git clone https://github.com/KeyaAkter/proxima-client
-2. Clone the server repository using git clone https://github.com/KeyaAkter/proxima-server
+1. Clone the client repository using git clone https://github.com/037Gyanprakash/proxima-client
+2. Clone the server repository using git clone https://github.com/037Gyanprakash/proxima-server
 3. Install the required dependencies by running `npm install `or `npm i` in both the client and server directories.
 4. Create a `.env` file in the root directory of server and add the following variables:
    - `MONGO_URI`: the MongoDB connection string
@@ -35,9 +35,3 @@ Proxima comes packed with a variety of useful features, including:
 
 6. Start the backend server by running `npm start`.
 7. Start the backend server by running `npm start`.
-
-## Links
-
-- [Live Demo](https://proxima-project.netlify.app/)
-- [Front-End Repository](https://github.com/KeyaAkter/proxima-client)
-- [Back-End Repository](https://github.com/KeyaAkter/proxima-server)
